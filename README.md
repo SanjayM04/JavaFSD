@@ -4,4 +4,5 @@ for killing port , lsof -i:8081 (8081 is port number) , then kill -9 1158 (1158 
 
 port number 8081 is backend, front end portnumber is 3000 by default. 
 
+in frontend node modukes are deleted , so kindly install node modules before running.
 
